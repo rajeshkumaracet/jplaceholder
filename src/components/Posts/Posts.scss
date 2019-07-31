@@ -1,0 +1,20 @@
+.card {
+  margin: 10px;
+
+  .card-title {
+    color: #25239e;
+    text-align: justify;
+  }
+
+  .lead {
+    color: #ec0b43;
+    text-align: justify;
+  }
+}
+
+.centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50vh;
+}
